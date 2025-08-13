@@ -1,1 +1,1 @@
-print(first, second, end=" ")
+    a, b = b, a+b
