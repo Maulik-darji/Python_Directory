@@ -1,5 +1,5 @@
 import math
-n = int(input("Enter Range for Pascal's Triangle: "))
+n = int(input("Enter Range: "))
 
 for i in range(n):
     print(" "*(n-i), end="")
